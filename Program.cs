@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleApp1
+namespace Basic_C_SHARP
 {
     class Program
     {
